@@ -1,5 +1,6 @@
 <html>
-    <body>
+<body>
+    
     <p1>adder!</p1>
 
     <form action="adder.php" method="POST">
@@ -8,5 +9,5 @@
     <input type="submit">
     </form>
 
-    </body>
+</body>
 </html>
