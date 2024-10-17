@@ -9,6 +9,7 @@
 
     <a href="grade.php"><br>Portfolio Grade</a>
     <a href="adder0.php"><br>Adder</a>
+    <a href="average.php"><br>Average Calculator</a>
 
     <!-- php code can be put anywhere, you can have multiple as well -->
     <?php
